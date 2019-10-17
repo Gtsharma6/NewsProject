@@ -1,0 +1,60 @@
+body { 
+    background-color: white;
+}
+
+.header{
+    height: 20%;
+    background-color: darkred;
+
+}
+.form_1{
+    width: 500px;
+	height: 500px;
+	background-color: red;
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+
+}
+.index_form {
+
+	
+	align-items: center;
+	
+	height: 80%;
+	width: 50%;
+	float: left;
+	
+	
+} 
+.index_tab{
+	margin: 20%;
+} 
+.index_tab tr{
+	width: 100%;
+	text-align: left;
+	height: 50px;
+	padding: 2%;
+}
+.left{
+	height:80% ;
+	width: 25%;
+	
+	float: left;
+
+}
+.form_div {
+	margin-top:10% ; 
+	margin-left: 30%;
+    
+    height: 600px; 
+    width : 500px;
+
+}
+
+

@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+
+{% block main %}
+
+<form class="fav" method="POST" action="/Signup_t/">
+    {% csrf_token %}
+    <fieldset>
+    Congratulaions you have Subscribe:<br>
+    <input type="text"><br>
+
+    </fieldset>
+  </form>
+
+   {% endblock %}
